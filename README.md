@@ -1,1 +1,1 @@
-# cs330
+# CS330-Graphic-Visualization
